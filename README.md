@@ -3,6 +3,17 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/prime-solutions/prime-atomic-design.svg?style=flat-square)](https://github.com/prime-solutions/prime-atomic-design/issues)
 
+## CSS
+
+- **Utilities** - global classes, mixins and variables.
+- **Quarks** - for default HTML elements only. (paragraphs, links, lists...)
+- **Atoms** -
+- **Molecules** -
+- **Organisms** -
+- **Templates** -
+- **Pages** -
+
+
 ## Contributing
 
 - Fork it!
