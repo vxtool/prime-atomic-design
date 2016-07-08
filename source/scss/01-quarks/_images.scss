@@ -1,0 +1,11 @@
+img {
+  max-width:100%;
+  height:auto;
+}
+
+/**
+ * Images in `figure` elements.
+ */
+figure > img {
+  display: block;
+}

@@ -1,0 +1,9 @@
+blockquote {
+  margin-left: 0;
+  position: relative;
+  font-style: italic;
+
+  &:before {
+    content: "\201C";
+  }
+}
