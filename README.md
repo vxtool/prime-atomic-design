@@ -1,7 +1,11 @@
 # Prime Atomic Design
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/prime-solutions/prime-atomic-design.svg?style=flat-square)](https://github.com/prime-solutions/prime-atomic-design/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/prime-atomic-design.svg)](https://github.com/org-victorinox/prime-atomic-design/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/prime-atomic-design.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/prime-atomic-design.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/prime-atomic-design.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/prime-atomic-design/total.svg)
 
 ## CSS
 
@@ -24,7 +28,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/prime-solutions/prime-atomic-design/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/prime-atomic-design/releases) for detailed changelog.
 
 ## License
 
